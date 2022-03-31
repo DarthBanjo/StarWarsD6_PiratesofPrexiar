@@ -1,0 +1,72 @@
+{
+  "name": "swd6-piratesofprexiar",
+  "title": "The Pirates of Prexiar",
+  "description": "A few days ago a Rebel transport was ambushed by the infamous Pirates of Prexiar. The pirates looted all the supplies, and your base needs that cargo. Your group is assigned to fly to Prexiar, land your freighter far from their camp, hike through the thick jungle, steal back the cargo, and somehow escape. The fate of the next skirmish against the Empire depends on your heroic efforts to retrieve supplies.",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.7.9",
+  "compatibleCoreVersion": "9",
+  "author": "DarthBanjo",
+  "authors": [
+    {
+      "name": "DarthBanjo"
+    }
+  ],
+  "packs": [
+    {
+      "name": "maps",
+      "label": "The Pirates of Prexiar",
+      "path": "/packs/maps.db",
+      "entity": "Scene",
+      "type": "Scene"
+    },
+    {
+      "name": "actors",
+      "label": "The Pirates of Prexiar",
+      "path": "/packs/actors.db",
+      "entity": "Actor",
+      "type": "Actor"
+    },
+    {
+      "name": "journals",
+      "label": "The Pirates of Prexiar",
+      "path": "/packs/journals.db",
+      "entity": "JournalEntry",
+      "type": "JournalEntry"
+    },
+    {
+      "name": "items",
+      "label": "The Pirates of Prexiar",
+      "path": "/packs/items.db",
+      "entity": "Item",
+      "type": "Item"
+    },
+    {
+      "name": "macros",
+      "label": "The Pirates of Prexiar",
+      "path": "/packs/macros.db",
+      "entity": "Macro",
+      "type": "Macro"
+    },
+    {
+      "name": "playlists",
+      "label": "The Pirates of Prexiar",
+      "path": "/packs/playlists.db",
+      "entity": "Playlist",
+      "type": "Playlist"
+    }
+  ],
+  "esmodules": [
+    "./scripts/init.js"
+  ],
+  "dependencies": [
+    {
+      "name": "scene-packer",
+      "manifest": "https://github.com/League-of-Foundry-Developers/scene-packer/releases/latest/download/module.json",
+      "type": "module"
+    }
+  ],
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "manifestPlusVersion": "1.2.0"
+}
