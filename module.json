@@ -64,9 +64,14 @@
       "manifest": "https://github.com/League-of-Foundry-Developers/scene-packer/releases/latest/download/module.json",
       "type": "module"
     }
+    {
+			"name": "starwarsd6-essentialcompanion-od6s",
+      "manifest": "https://raw.githubusercontent.com/DarthBanjo/starwarsd6-essentialcompanion-od6s/main/module.json",
+			"type": "module"
+		}
   ],
-  "url": "",
-  "manifest": "",
-  "download": "",
+  "url": "https://github.com/DarthBanjo/swd6-piratesofprexiar",
+  "manifest": "https://raw.githubusercontent.com/DarthBanjo/swd6-piratesofprexiar/main/module.json",
+  "download": "https://github.com/DarthBanjo/swd6-piratesofprexiar/archive/refs/heads/main.zip",
   "manifestPlusVersion": "1.2.0"
 }
