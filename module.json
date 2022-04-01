@@ -63,7 +63,7 @@
       "name": "scene-packer",
       "manifest": "https://github.com/League-of-Foundry-Developers/scene-packer/releases/latest/download/module.json",
       "type": "module"
-    }
+    },
     {
 			"name": "starwarsd6-essentialcompanion-od6s",
       "manifest": "https://raw.githubusercontent.com/DarthBanjo/starwarsd6-essentialcompanion-od6s/main/module.json",
